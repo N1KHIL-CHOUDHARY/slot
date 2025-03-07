@@ -118,7 +118,7 @@ body{
 
 ## OUTPUT
 
-![alt text](<screenshot (15).png>)
+![alt text](<Screenshot (15).png>)
 <br>
 ![alt text](<Screenshot (16).png>)
 ## RESULT
